@@ -10,7 +10,8 @@ namespace Tec.DemoApi.Controllers
     {
         public ActionResult Index()
         {
-            string temp = "Hi Mike!";
+            string temp = "Hi Mike! checking in now";
+
 
             return View();
         }
