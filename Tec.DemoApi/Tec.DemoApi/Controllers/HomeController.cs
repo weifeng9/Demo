@@ -16,7 +16,7 @@ namespace Tec.DemoApi.Controllers
             var changeOnLocal = "new chagne on local";
 
 
-            return View();
+            //return View();
         }
     }
 }
